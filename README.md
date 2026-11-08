@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Christopher 👋
 
-<!--
-**ChristopherBarrios/ChristopherBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de TSU en Desarrollo de Software Multiplataforma**
 
-Here are some ideas to get you started:
+Me enfoco en crear soluciones de software eficientes, explorando nuevas tecnologías y ampliando continuamente mis conocimientos en el desarrollo de aplicaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 💻 Tengo bases en **C, PHP, SQL, HTML y CSS**.
+- 🌱 Actualmente estoy enfocado en aprender y dominar **Java** y **JavaScript**.
+- 🎓 He completado certificaciones de **Cisco CCNA** y **Linux**, lo que me ha dado buenas bases en redes y sistemas operativos.
+- ⚙️ Acostumbro trabajar con gestores de bases de datos locales y diversos entornos de desarrollo para mis prácticas y proyectos.
+
+### 🛠️ Stack Tecnológico y Herramientas
+
+**Conocimientos y bases:**
+- C, PHP, SQL, HTML, CSS
+
+**Aprendiendo:**
+- Java, JavaScript
+
+**Herramientas y Entornos:**
+- Git, Visual Studio Code, NetBeans
+- PostgreSQL, XAMPP
+
